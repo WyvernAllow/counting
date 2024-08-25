@@ -1,0 +1,2 @@
+# counting
+Discord counting bot
